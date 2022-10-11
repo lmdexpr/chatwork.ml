@@ -16,4 +16,9 @@
 (package
  (name OCamlwork)
  (synopsis "Chatwork API binding")
- (depends (ocaml (>= 4.14.0)) ocaml-lsp-server ocamlformat ocamlformat-rpc dune))
+ (depends
+   (ocaml (>= 5.0.0))
+   ocaml-lsp-server
+   ocamlformat
+   dune
+   eio_main))

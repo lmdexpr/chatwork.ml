@@ -7,11 +7,11 @@ license: "MIT"
 homepage: "https://github.com/lmdexpr/OCamlwork"
 bug-reports: "https://github.com/lmdexpr/OCamlwork/issues"
 depends: [
-  "ocaml" {>= "4.14.0"}
+  "ocaml" {>= "5.0.0"}
   "ocaml-lsp-server"
   "ocamlformat"
-  "ocamlformat-rpc"
   "dune" {>= "3.0"}
+  "eio_main"
   "odoc" {with-doc}
 ]
 build: [
