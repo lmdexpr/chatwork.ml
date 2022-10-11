@@ -5,7 +5,7 @@
 (generate_opam_files true)
 
 (source
- (github lmdexpr/OCamlwork))
+ (github lmdexpr/chatwork.ml))
 
 (authors "Yuki Tajiri")
 

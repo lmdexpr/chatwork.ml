@@ -4,8 +4,8 @@ synopsis: "Chatwork API binding"
 maintainer: ["Yuki Tajiri <lmdexpr@gmail.com>"]
 authors: ["Yuki Tajiri"]
 license: "MIT"
-homepage: "https://github.com/lmdexpr/OCamlwork"
-bug-reports: "https://github.com/lmdexpr/OCamlwork/issues"
+homepage: "https://github.com/lmdexpr/chatwork.ml"
+bug-reports: "https://github.com/lmdexpr/chatwork.ml/issues"
 depends: [
   "ocaml" {>= "5.0.0"}
   "ocaml-lsp-server"
@@ -28,4 +28,4 @@ build: [
     "@doc" {with-doc}
   ]
 ]
-dev-repo: "git+https://github.com/lmdexpr/OCamlwork.git"
+dev-repo: "git+https://github.com/lmdexpr/chatwork.ml.git"
