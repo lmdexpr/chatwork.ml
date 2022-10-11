@@ -1,2 +1,3 @@
 (library
- (name OCamlwork))
+ (public_name chatwork)
+ (name chatwork))

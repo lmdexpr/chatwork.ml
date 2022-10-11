@@ -1,6 +1,6 @@
 (lang dune 3.0)
 
-(name OCamlwork)
+(name chatwork)
 
 (generate_opam_files true)
 
@@ -14,7 +14,7 @@
 (license MIT)
 
 (package
- (name OCamlwork)
+ (name chatwork)
  (synopsis "Chatwork API binding")
  (depends
    (ocaml (>= 5.0.0))

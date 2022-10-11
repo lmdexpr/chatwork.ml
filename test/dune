@@ -1,2 +1,3 @@
 (test
- (name OCamlwork))
+ (name chatwork_spec)
+ (libraries chatwork))
