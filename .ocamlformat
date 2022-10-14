@@ -1,0 +1,15 @@
+profile = default
+version = 0.24.1
+ocaml-version=5.0.0
+dock-collection-brackets=false
+break-sequences=true
+doc-comments=before
+field-space=loose
+sequence-style=terminator
+break-separators=before
+type-decl=sparse
+wrap-comments=true
+cases-exp-indent=2
+break-cases=fit-or-vertical
+indicate-nested-or-patterns=unsafe-no
+parse-docstrings=true
