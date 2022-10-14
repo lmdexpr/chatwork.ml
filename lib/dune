@@ -1,3 +1,4 @@
 (library
  (public_name chatwork)
- (name chatwork))
+ (name chatwork)
+ (libraries eio_main yojson))

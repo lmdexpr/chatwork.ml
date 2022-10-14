@@ -12,6 +12,7 @@ depends: [
   "ocamlformat"
   "dune" {>= "3.0"}
   "eio_main"
+  "yojson"
   "odoc" {with-doc}
 ]
 build: [

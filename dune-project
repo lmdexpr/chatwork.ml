@@ -21,4 +21,5 @@
    ocaml-lsp-server
    ocamlformat
    dune
-   eio_main))
+   eio_main
+   yojson))
